@@ -1,5 +1,5 @@
 # Interactive_Recipe_Book
-WSOA4175A_React Coding Challenges_2456754
+**WSOA4175A_React Coding Challenges_2456754**
 
 Name of Project recipe-exercise
 
