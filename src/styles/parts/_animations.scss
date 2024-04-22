@@ -1,0 +1,20 @@
+//https://www.youtube.com/watch?v=-5X6r0oC0Og&list=PLBh9z20x5LUqfmToGINwM5GnDL9caB-Sn&index=16//
+@keyframes slideInLeft{
+    from{
+        transform: translateX(-100%);
+    }
+    to{
+        transform: translateX(0);
+    }
+}
+
+@keyframes popOut{
+    from{
+        transform: scale(0);
+        opacity: 0;
+    }
+    to{
+        transform: 1;
+        opacity: 1;
+    }
+}
