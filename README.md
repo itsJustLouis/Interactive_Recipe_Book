@@ -1,6 +1,8 @@
 # Interactive_Recipe_Book
 WSOA4175A_React Coding Challenges_2456754
 
+Name of Project recipe-exercise
+
 npm i bootstrap react-bootstrap styled-components react-router-dom
 npm install sweetalert2
 npm i --save @fortawesome/fontawesome-svg-core
